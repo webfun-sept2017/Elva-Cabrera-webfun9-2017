@@ -1,0 +1,22 @@
+C:\Users\elva.cabrera\Desktop\DojoAssignments>dir /b /s
+C:\Users\elva.cabrera\Desktop\DojoAssignments\iOS
+C:\Users\elva.cabrera\Desktop\DojoAssignments\MEAN
+C:\Users\elva.cabrera\Desktop\DojoAssignments\netCore
+C:\Users\elva.cabrera\Desktop\DojoAssignments\Python
+C:\Users\elva.cabrera\Desktop\DojoAssignments\Ruby
+C:\Users\elva.cabrera\Desktop\DojoAssignments\WebFundamentals
+C:\Users\elva.cabrera\Desktop\DojoAssignments\iOS\about.txt
+C:\Users\elva.cabrera\Desktop\DojoAssignments\MEAN\about.txt
+C:\Users\elva.cabrera\Desktop\DojoAssignments\netCore\about.txt
+C:\Users\elva.cabrera\Desktop\DojoAssignments\Python\about.txt
+C:\Users\elva.cabrera\Desktop\DojoAssignments\Ruby\about.txt
+C:\Users\elva.cabrera\Desktop\DojoAssignments\WebFundamentals\about.txt
+C:\Users\elva.cabrera\Desktop\DojoAssignments\WebFundamentals\CSS
+C:\Users\elva.cabrera\Desktop\DojoAssignments\WebFundamentals\Git
+C:\Users\elva.cabrera\Desktop\DojoAssignments\WebFundamentals\HTML
+C:\Users\elva.cabrera\Desktop\DojoAssignments\WebFundamentals\Javascript
+C:\Users\elva.cabrera\Desktop\DojoAssignments\WebFundamentals\CSS\about.txt
+C:\Users\elva.cabrera\Desktop\DojoAssignments\WebFundamentals\Git\about.txt
+C:\Users\elva.cabrera\Desktop\DojoAssignments\WebFundamentals\HTML\about.txt
+C:\Users\elva.cabrera\Desktop\DojoAssignments\WebFundamentals\HTML\indentation.html
+C:\Users\elva.cabrera\Desktop\DojoAssignments\WebFundamentals\Javascript\about.txt
