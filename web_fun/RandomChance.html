@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Random Chance</title>
+	<script type="text/javascript">
+   		function randomChance(Q) {
+			  var Win = 0;
+			 	 while( Q > 0 ) {
+			   	 Win = Win + Math.floor((Math.random()*101));
+			   	 Q --;
+			  }
+			 return Win;
+
+		}
+		console.log(randomChance(1));
+	</script>
+</head>
+<body>
+
+</body>
+</html>
